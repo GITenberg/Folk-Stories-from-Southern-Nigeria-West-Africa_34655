@@ -1,0 +1,35 @@
+_repo: Folk-Stories-from-Southern-Nigeria-West-Africa_34655
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: archival
+  image_path: 34655-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dayrell, Elphinstone
+    birthdate: 1869
+    deathdate: 1917
+    gutenberg_agent_id: '37154'
+    url: http://www.gutenberg.org/2009/agents/37154
+description: ''
+gutenberg_issued: '2010-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34655'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Nigeria, Southern'
+- !lcc 'GR'
+title: Folk Stories from Southern Nigeria, West Africa
+url: http://www.gutenberg.org/ebooks/34655
